@@ -60,6 +60,7 @@ ul{
 .blurb{
     width: 965px;
     float:left;
+    
 }
 
 .greeting{
@@ -86,6 +87,21 @@ button{
     font-family: 'Montserrat', sans-serif;
     font-size:20px;
 }
+
+button a{
+    color: white;
+    text-decoration: none;
+}
+
+button:hover{
+    background-color: #E5F4E3;
+}
+
+button a:hover{
+    color: #272727;
+}
+
+
 
 .mySkills{
     height:auto;
